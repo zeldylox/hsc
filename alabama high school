@@ -1,0 +1,2513 @@
+Go to FootballCoach
+r/FootballCoach
+7 mo. ago
+by 
+ConsiderationOld9897
+ Join
+ 
+"Alabama High School Universe
+{
+
+"name": "Alabama High School Universe",
+
+"startingYear": 2022,
+
+"startingMessage": "Welcome to the Alabama High School Universe",
+
+"bowlGames": [
+
+{
+
+"name": "Birmingham Bowl",
+
+"zipcode": "35203"
+
+},
+
+{
+
+"name": "Rocket City Bowl",
+
+"zipcode": "35649"
+
+},
+
+{
+
+"name": "Forest Gump Bowl",
+
+"zipcode": "36013"
+
+},
+
+{
+
+"name": "Portside Bowl",
+
+"zipcode": "36601"
+
+},
+
+{
+
+"name": "T-Town Bowl",
+
+"zipcode": "35401"
+
+},
+
+{
+
+"name": "Green Valley Bowl",
+
+"zipcode": "35216"
+
+},
+
+{
+
+"name": "Tiger Bowl",
+
+"zipcode": "36830"
+
+},
+
+{
+
+"name": "Peanut Festival Bowl",
+
+"zipcode": "36301"
+
+}
+
+],
+
+"conferences": [
+
+{
+
+"name": "East Alabama",
+
+"prestigeLevel": 7,
+
+"zipcode": "36804",
+
+"divisions": [
+
+{
+
+"name": "North Region 1",
+
+"teams": [
+
+{
+
+"abbreviation": "OH",
+
+"name": "Opelika",
+
+"mascot": "Bulldogs",
+
+"primaryColor": "#8D0914",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36801",
+
+"attributes": {
+
+"stadium": 5,
+
+"facilities": 5,
+
+"collegeLife": 5,
+
+"academics": 5,
+
+"marketing": 5,
+
+"prestige": 5,
+
+"attendance": 1288,
+
+"fanbaseLevel": 5
+
+},
+
+"rivalAbbreviation": "AH"
+
+},
+
+{
+
+"abbreviation": "BE",
+
+"name": "Beauregard",
+
+"mascot": "Hornets",
+
+"primaryColor": "#1E4A87",
+
+"secondaryColor": "#F7CB44",
+
+"zipcode": "36804",
+
+"attributes": {
+
+"stadium": 1,
+
+"facilities": 1,
+
+"collegeLife": 1,
+
+"academics": 1,
+
+"marketing": 1,
+
+"prestige": 1,
+
+"attendance": 574,
+
+"fanbaseLevel": 1
+
+},
+
+"rivalAbbreviation": "BH"
+
+},
+
+{
+
+"abbreviation": "BH",
+
+"name": "Beulah",
+
+"mascot": "Bobcats",
+
+"primaryColor": "#DCD656",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36854",
+
+"attributes": {
+
+"prestige": 1,
+
+"facilities": 1,
+
+"stadium": 1,
+
+"collegeLife": 1,
+
+"academics": 1,
+
+"marketing": 1,
+
+"attendance": 534,
+
+"fanbaseLevel": 1
+
+},
+
+"rivalAbbreviation": "BE"
+
+},
+
+{
+
+"abbreviation": "AH",
+
+"name": "Auburn",
+
+"mascot": "Tigers",
+
+"primaryColor": "#000090",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36879",
+
+"attributes": {
+
+"prestige": 9,
+
+"facilities": 9,
+
+"stadium": 9,
+
+"collegeLife": 9,
+
+"academics": 9,
+
+"marketing": 9,
+
+"attendance": 2025,
+
+"fanbaseLevel": 9
+
+},
+
+"rivalAbbreviation": "OH"
+
+},
+
+{
+
+"abbreviation": "VY",
+
+"name": "Valley",
+
+"mascot": "Rams",
+
+"primaryColor": "#0000FC",
+
+"secondaryColor": "#FF7F00",
+
+"zipcode": "36854",
+
+"attributes": {
+
+"prestige": 2,
+
+"facilities": 2,
+
+"stadium": 2,
+
+"collegeLife": 2,
+
+"academics": 2,
+
+"marketing": 2,
+
+"attendance": 725,
+
+"fanbaseLevel": 2
+
+},
+
+"rivalAbbreviation": "LA"
+
+},
+
+{
+
+"abbreviation": "TU",
+
+"name": "Tuskegee",
+
+"mascot": "Golden Tigers",
+
+"primaryColor": "#A32035",
+
+"secondaryColor": "#EBA900",
+
+"zipcode": "36083",
+
+"attributes": {
+
+"prestige": 10,
+
+"facilities": 10,
+
+"stadium": 10,
+
+"collegeLife": 10,
+
+"academics": 10,
+
+"marketing": 10,
+
+"attendance": 2877,
+
+"fanbaseLevel": 10
+
+},
+
+"rivalAbbreviation": "TA"
+
+},
+
+{
+
+"abbreviation": "TA",
+
+"name": "Talassee",
+
+"mascot": "Tigers",
+
+"primaryColor": "#581483",
+
+"secondaryColor": "#EAA900",
+
+"zipcode": "36078",
+
+"attributes": {
+
+"prestige": 1,
+
+"facilities": 1,
+
+"stadium": 1,
+
+"collegeLife": 1,
+
+"academics": 1,
+
+"marketing": 1,
+
+"attendance": 533,
+
+"fanbaseLevel": 1
+
+},
+
+"rivalAbbreviation": "TU"
+
+},
+
+{
+
+"abbreviation": "LA",
+
+"name": "Lanett",
+
+"mascot": "Panthers",
+
+"primaryColor": "#999933",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36863",
+
+"attributes": {
+
+"prestige": 1,
+
+"facilities": 1,
+
+"stadium": 1,
+
+"collegeLife": 1,
+
+"academics": 1,
+
+"marketing": 1,
+
+"attendance": 234,
+
+"fanbaseLevel": 1
+
+},
+
+"rivalAbbreviation": "VY"
+
+},
+
+{
+
+"abbreviation": "SS",
+
+"name": "Smiths Station",
+
+"mascot": "Panthers",
+
+"primaryColor": "#AFACA5",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36877",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1324,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "CE"
+
+},
+
+{
+
+"abbreviation": "CE",
+
+"name": "Central",
+
+"mascot": "Red Devils",
+
+"primaryColor": "#ED202A",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36870",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1332,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "SS"
+
+}
+
+]
+
+}
+
+]
+
+},
+
+{
+
+"name": "South Alabama",
+
+"prestigeLevel": 6,
+
+"zipcode": "36426",
+
+"divisions": [
+
+{
+
+"name": "North Region 1",
+
+"teams": [
+
+{
+
+"abbreviation": "EN",
+
+"name": "Enterprise",
+
+"mascot": "Wildcats",
+
+"primaryColor": "#014386",
+
+"secondaryColor": "#FFFFF",
+
+"zipcode": "36330",
+
+"attributes": {
+
+"prestige": 9,
+
+"facilities": 9,
+
+"stadium": 9,
+
+"collegeLife": 9,
+
+"academics": 9,
+
+"marketing": 9,
+
+"attendance": 2096,
+
+"fanbaseLevel": 9
+
+},
+
+"rivalAbbreviation": "EL"
+
+},
+
+{
+
+"abbreviation": "EL",
+
+"name": "Elba",
+
+"mascot": "Tigers",
+
+"primaryColor": "#000000",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36323",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 283,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "EN"
+
+},
+
+{
+
+"abbreviation": "EX",
+
+"name": "Excel",
+
+"mascot": "Panthers",
+
+"primaryColor": "#000000",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36439",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 1000,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "AN"
+
+},
+
+{
+
+"abbreviation": "SA",
+
+"name": "Saraland",
+
+"mascot": "Spartans",
+
+"primaryColor": "#E20B16",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "36571",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 1058,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "BL"
+
+},
+
+{
+
+"abbreviation": "BL",
+
+"name": "Blount",
+
+"mascot": "Leopards",
+
+"primaryColor": "#BA55D3",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "36610",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 1062,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "SA"
+
+},
+
+{
+
+"abbreviation": "VI",
+
+"name": "Vigor",
+
+"mascot": "Wolves",
+
+"primaryColor": "#228B22",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "36610",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 493,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "SP"
+
+},
+
+{
+
+"abbreviation": "SP",
+
+"name": "St. Paul",
+
+"mascot": "Saints",
+
+"primaryColor": "#FF0000",
+
+"secondaryColor": "#4682B4",
+
+"zipcode": "36608",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 1348,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "VI"
+
+},
+
+{
+
+"abbreviation": "AN",
+
+"name": "Andalusia",
+
+"mascot": "Bulldogs",
+
+"primaryColor": "#BD2031",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "36420",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 514,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "EX"
+
+},
+
+{
+
+"abbreviation": "DO",
+
+"name": "Dothan",
+
+"mascot": "Wolves",
+
+"primaryColor": "#A02D3A",
+
+"secondaryColor": "#EAA81C",
+
+"zipcode": "36303",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 1624,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "EU"
+
+},
+
+{
+
+"abbreviation": "EU",
+
+"name": "Eufalla",
+
+"mascot": "Tigers",
+
+"primaryColor": "#C21100",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36027",
+
+"attributes": {
+
+"prestige": 2,
+
+"facilities": 2,
+
+"stadium": 2,
+
+"collegeLife": 2,
+
+"academics": 2,
+
+"marketing": 2,
+
+"attendance": 740,
+
+"fanbaseLevel": 2
+
+},
+
+"rivalAbbreviation": "DO"
+
+}
+
+]
+
+}
+
+]
+
+},
+
+{
+
+"name": "West Alabama",
+
+"prestigeLevel": 9,
+
+"zipcode": "36792",
+
+"divisions": [
+
+{
+
+"name": "North Region 1",
+
+"teams": [
+
+{
+
+"abbreviation": "CM",
+
+"name": "Carver Montgomery",
+
+"mascot": "Wolverines",
+
+"primaryColor": "#FAD52D",
+
+"secondaryColor": "#245E38",
+
+"zipcode": "36108",
+
+"attributes": {
+
+"prestige": 2,
+
+"facilities": 2,
+
+"stadium": 2,
+
+"collegeLife": 2,
+
+"academics": 2,
+
+"marketing": 2,
+
+"attendance": 926,
+
+"fanbaseLevel": 2
+
+},
+
+"rivalAbbreviation": "MC"
+
+},
+
+{
+
+"abbreviation": "TH",
+
+"name": "Thomson",
+
+"mascot": "Wariors",
+
+"primaryColor": "#D31C21",
+
+"secondaryColor": "#3D3D3D",
+
+"zipcode": "35007",
+
+"attributes": {
+
+"prestige": 10,
+
+"facilities": 10,
+
+"stadium": 10,
+
+"collegeLife": 10,
+
+"academics": 10,
+
+"marketing": 10,
+
+"attendance": 2098,
+
+"fanbaseLevel": 10
+
+},
+
+"rivalAbbreviation": "HO"
+
+},
+
+{
+
+"abbreviation": "TC",
+
+"name": "Tuscaloosa County",
+
+"mascot": "Wildcats",
+
+"primaryColor": "#0000A0",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "35475",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 1604,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "HI"
+
+},
+
+{
+
+"abbreviation": "HO",
+
+"name": "Hoover",
+
+"mascot": "Buccaneers",
+
+"primaryColor": "#F07622",
+
+"secondaryColor": "#000000",
+
+"zipcode": "35244",
+
+"attributes": {
+
+"prestige": 10,
+
+"facilities": 10,
+
+"stadium": 10,
+
+"collegeLife": 10,
+
+"academics": 10,
+
+"marketing": 10,
+
+"attendance": 2766,
+
+"fanbaseLevel": 10
+
+},
+
+"rivalAbbreviation": "TH"
+
+},
+
+{
+
+"abbreviation": "GA",
+
+"name": "Gardendale",
+
+"mascot": "Rockets",
+
+"primaryColor": "#76273D",
+
+"secondaryColor": "#A4A19C",
+
+"zipcode": "35071",
+
+"attributes": {
+
+"prestige": 3,
+
+"facilities": 3,
+
+"stadium": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"attendance": 1005,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "HU"
+
+},
+
+{
+
+"abbreviation": "HU",
+
+"name": "Hueytown",
+
+"mascot": "Golden Gophers",
+
+"primaryColor": "#8B008B",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "35023",
+
+"attributes": {
+
+"prestige": 5,
+
+"facilities": 5,
+
+"stadium": 5,
+
+"collegeLife": 5,
+
+"academics": 5,
+
+"marketing": 5,
+
+"attendance": 1136,
+
+"fanbaseLevel": 5
+
+},
+
+"rivalAbbreviation": "GA"
+
+},
+
+{
+
+"abbreviation": "MC",
+
+"name": "Montgomery Catholic",
+
+"mascot": "Kights",
+
+"primaryColor": "#4169E1",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36116",
+
+"attributes": {
+
+"prestige": 5,
+
+"facilities": 5,
+
+"stadium": 5,
+
+"collegeLife": 5,
+
+"academics": 5,
+
+"marketing": 5,
+
+"attendance": 756,
+
+"fanbaseLevel": 5
+
+},
+
+"rivalAbbreviation": "CM"
+
+},
+
+{
+
+"abbreviation": "SW",
+
+"name": "Sweet Water",
+
+"mascot": "Bulldogs",
+
+"primaryColor": "#800080",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36782",
+
+"attributes": {
+
+"prestige": 5,
+
+"facilities": 5,
+
+"stadium": 5,
+
+"collegeLife": 5,
+
+"academics": 5,
+
+"marketing": 5,
+
+"attendance": 577,
+
+"fanbaseLevel": 5
+
+},
+
+"rivalAbbreviation": "PR"
+
+},
+
+{
+
+"abbreviation": "HI",
+
+"name": "Hillcrest",
+
+"mascot": "Patriots",
+
+"primaryColor": "#FF0100",
+
+"secondaryColor": "#000298",
+
+"zipcode": "35405",
+
+"attributes": {
+
+"prestige": 5,
+
+"facilities": 5,
+
+"stadium": 5,
+
+"collegeLife": 5,
+
+"academics": 5,
+
+"marketing": 5,
+
+"attendance": 1314,
+
+"fanbaseLevel": 5
+
+},
+
+"rivalAbbreviation": "TC"
+
+},
+
+{
+
+"abbreviation": "PR",
+
+"name": "Prattville",
+
+"mascot": "Lions",
+
+"primaryColor": "#7f1417",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "36067",
+
+"attributes": {
+
+"prestige": 9,
+
+"facilities": 9,
+
+"stadium": 1,
+
+"collegeLife": 1,
+
+"academics": 1,
+
+"marketing": 1,
+
+"attendance": 1880,
+
+"fanbaseLevel": 1
+
+},
+
+"rivalAbbreviation": "SW"
+
+}
+
+]
+
+}
+
+]
+
+},
+
+{
+
+"name": "Gulf Coast",
+
+"prestigeLevel": 10,
+
+"zipcode": "32507",
+
+"divisions": [
+
+{
+
+"name": "North Region 1",
+
+"teams": [
+
+{
+
+"abbreviation": "FA",
+
+"name": "Fairhope",
+
+"mascot": "Pirates",
+
+"primaryColor": "#FAD52D",
+
+"secondaryColor": "#245e38",
+
+"zipcode": "36013",
+
+"attributes": {
+
+"prestige": 7,
+
+"facilities": 7,
+
+"stadium": 7,
+
+"collegeLife": 7,
+
+"academics": 7,
+
+"marketing": 7,
+
+"attendance": 1417,
+
+"fanbaseLevel": 7
+
+},
+
+"rivalAbbreviation": "TH"
+
+},
+
+{
+
+"abbreviation": "IMG",
+
+"name": "IMG",
+
+"mascot": "Ascenders",
+
+"primaryColor": "#2559A7",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "34210",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1353,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "FO"
+
+},
+
+{
+
+"abbreviation": "FO",
+
+"name": "Foley",
+
+"mascot": "Lions",
+
+"primaryColor": "#0000CD",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36535",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1225,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "IMG"
+
+},
+
+{
+
+"abbreviation": "DA",
+
+"name": "Daphne",
+
+"mascot": "Trojans",
+
+"primaryColor": "#BA55D3",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36526",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1213,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "SF"
+
+},
+
+{
+
+"abbreviation": "BA",
+
+"name": "Baker",
+
+"mascot": "Hornets",
+
+"primaryColor": "#000080",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "36608",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 2538,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "UMS"
+
+},
+
+{
+
+"abbreviation": "MU",
+
+"name": "Murphy",
+
+"mascot": "Panthers",
+
+"primaryColor": "#0000CD",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36693",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1358,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "MT"
+
+},
+
+{
+
+"abbreviation": "MT",
+
+"name": "McGill-Toolen",
+
+"mascot": "Yellowjackets",
+
+"primaryColor": "#FF4500",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36604",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1060,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "MU"
+
+},
+
+{
+
+"abbreviation": "SF",
+
+"name": "Spanish Fort",
+
+"mascot": "Toros",
+
+"primaryColor": "#FF0000",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36527",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 997,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "DA"
+
+},
+
+{
+
+"abbreviation": "UMS",
+
+"name": "UMS",
+
+"mascot": "Bulldogs",
+
+"primaryColor": "#DC143C",
+
+"secondaryColor": "#2F4F4F",
+
+"zipcode": "36607",
+
+"attributes": {
+
+"prestige": 6,
+
+"facilities": 6,
+
+"stadium": 6,
+
+"collegeLife": 6,
+
+"academics": 6,
+
+"marketing": 6,
+
+"attendance": 1266,
+
+"fanbaseLevel": 6
+
+},
+
+"rivalAbbreviation": "BA"
+
+},
+
+{
+
+"abbreviation": "TH",
+
+"name": "Theodore",
+
+"mascot": "Bobcats",
+
+"primaryColor": "#AA0022",
+
+"secondaryColor": "#000000",
+
+"zipcode": "36582",
+
+"attributes": {
+
+"prestige": 7,
+
+"facilities": 7,
+
+"stadium": 7,
+
+"collegeLife": 7,
+
+"academics": 7,
+
+"marketing": 7,
+
+"attendance": 1362,
+
+"fanbaseLevel": 7
+
+},
+
+"rivalAbbreviation": "FA"
+
+}
+
+]
+
+}
+
+]
+
+},
+
+{
+
+"name": "North Alabama",
+
+"prestigeLevel": 5,
+
+"zipcode": "35640",
+
+"divisions": [
+
+{
+
+"name": "North Region 1",
+
+"teams": [
+
+{
+
+"abbreviation": "MS",
+
+"name": "Muscle Shoals",
+
+"mascot": "Trojans",
+
+"primaryColor": "#D90000",
+
+"secondaryColor": "#000000",
+
+"zipcode": "35661",
+
+"attributes": {
+
+"stadium": 2,
+
+"facilities": 2,
+
+"collegeLife": 2,
+
+"academics": 2,
+
+"marketing": 2,
+
+"prestige": 2,
+
+"attendance": 859,
+
+"fanbaseLevel": 2
+
+},
+
+"rivalAbbreviation": "DS"
+
+},
+
+{
+
+"abbreviation": "DE",
+
+"name": "Decatur",
+
+"mascot": "Red Raiders",
+
+"primaryColor": "#E21E24",
+
+"secondaryColor": "#000000",
+
+"zipcode": "35601",
+
+"attributes": {
+
+"stadium": 3,
+
+"facilities": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"prestige": 3,
+
+"attendance": 1035,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "FL"
+
+},
+
+{
+
+"abbreviation": "FL",
+
+"name": "Florence",
+
+"mascot": "Falcons",
+
+"primaryColor": "#0000CD",
+
+"secondaryColor": "#000000",
+
+"zipcode": "35630",
+
+"attributes": {
+
+"stadium": 3,
+
+"facilities": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"prestige": 3,
+
+"attendance": 1034,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "DE"
+
+},
+
+{
+
+"abbreviation": "DS",
+
+"name": "Deshler",
+
+"mascot": "Tigers",
+
+"primaryColor": "#DC143C",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "35674",
+
+"attributes": {
+
+"stadium": 3,
+
+"facilities": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"prestige": 3,
+
+"attendance": 434,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "MS"
+
+},
+
+{
+
+"abbreviation": "RU",
+
+"name": "Russelville",
+
+"mascot": "Tigers",
+
+"primaryColor": "#FD700",
+
+"secondaryColor": "#000000",
+
+"zipcode": "35653",
+
+"attributes": {
+
+"stadium": 3,
+
+"facilities": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"prestige": 3,
+
+"attendance": 729,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "HA"
+
+},
+
+{
+
+"abbreviation": "PL",
+
+"name": "Plainview",
+
+"mascot": "Bears",
+
+"primaryColor": "#000080",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "35986",
+
+"attributes": {
+
+"stadium": 3,
+
+"facilities": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"prestige": 3,
+
+"attendance": 1231,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "FY"
+
+},
+
+{
+
+"abbreviation": "PE",
+
+"name": "Piedmont",
+
+"mascot": "Bulldogs",
+
+"primaryColor": "#4169E1",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36272",
+
+"attributes": {
+
+"stadium": 3,
+
+"facilities": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"prestige": 3,
+
+"attendance": 347,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "PI"
+
+},
+
+{
+
+"abbreviation": "FY",
+
+"name": "Fyffe",
+
+"mascot": "Red Devils",
+
+"primaryColor": "#FF0000",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "35971",
+
+"attributes": {
+
+"stadium": 3,
+
+"facilities": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"prestige": 3,
+
+"attendance": 921,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "PL"
+
+},
+
+{
+
+"abbreviation": "HA",
+
+"name": "Hartselle",
+
+"mascot": "Tigers",
+
+"primaryColor": "#9F1A1D",
+
+"secondaryColor": "#808080",
+
+"zipcode": "35640",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 1,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 1066,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "RU"
+
+},
+
+{
+
+"abbreviation": "PI",
+
+"name": "Pinson",
+
+"mascot": "Indians",
+
+"primaryColor": "#902C3A",
+
+"secondaryColor": "#635F53",
+
+"zipcode": "35126",
+
+"attributes": {
+
+"prestige": 3,
+
+"facilities": 3,
+
+"stadium": 3,
+
+"collegeLife": 3,
+
+"academics": 3,
+
+"marketing": 3,
+
+"attendance": 1036,
+
+"fanbaseLevel": 3
+
+},
+
+"rivalAbbreviation": "PE"
+
+}
+
+]
+
+}
+
+]
+
+},
+
+{
+
+"name": "Birmingham",
+
+"prestigeLevel": 8,
+
+"zipcode": "35128",
+
+"divisions": [
+
+{
+
+"name": "North Region 1",
+
+"teams": [
+
+{
+
+"abbreviation": "VH",
+
+"name": "Vestavia Hills",
+
+"mascot": "Rebels",
+
+"primaryColor": "#092C74",
+
+"secondaryColor": "#C30E2E",
+
+"zipcode": "35216",
+
+"attributes": {
+
+"prestige": 7,
+
+"facilities": 7,
+
+"stadium": 7,
+
+"collegeLife": 7,
+
+"academics": 7,
+
+"marketing": 7,
+
+"attendance": 1514,
+
+"fanbaseLevel": 7
+
+},
+
+"rivalAbbreviation": "SP"
+
+},
+
+{
+
+"abbreviation": "MB",
+
+"name": "Mountian Brook",
+
+"mascot": "Spartans",
+
+"primaryColor": "#003E31",
+
+"secondaryColor": "#D1C573",
+
+"zipcode": "35223",
+
+"attributes": {
+
+"prestige": 4,
+
+"facilities": 4,
+
+"stadium": 4,
+
+"collegeLife": 4,
+
+"academics": 4,
+
+"marketing": 4,
+
+"attendance": 1043,
+
+"fanbaseLevel": 4
+
+},
+
+"rivalAbbreviation": "HO"
+
+},
+
+{
+
+"abbreviation": "TR",
+
+"name": "Trussville",
+
+"mascot": "Huskies",
+
+"primaryColor": "#C21E24",
+
+"secondaryColor": "#C6C0C0",
+
+"zipcode": "35173",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 1550,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "CH"
+
+},
+
+{
+
+"abbreviation": "FC",
+
+"name": "Faith Christian",
+
+"mascot": "Lions",
+
+"primaryColor": "#OO6400",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "36207",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 250,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "AN"
+
+},
+
+{
+
+"abbreviation": "AN",
+
+"name": "Aniston",
+
+"mascot": "Bulldogs",
+
+"primaryColor": "#BD2031",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "36207",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 415,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "FC"
+
+},
+
+{
+
+"abbreviation": "PC",
+
+"name": "Pell City",
+
+"mascot": "Panthers",
+
+"primaryColor": "#000000",
+
+"secondaryColor": "#FFD700",
+
+"zipcode": "35125",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 1130,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "LE"
+
+},
+
+{
+
+"abbreviation": "LE",
+
+"name": "Leeds",
+
+"mascot": "Greenwave",
+
+"primaryColor": "#2E8B57",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "35094",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 567,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "PC"
+
+},
+
+{
+
+"abbreviation": "SP",
+
+"name": "Spain Park",
+
+"mascot": "Jaguars",
+
+"primaryColor": "#99BADD",
+
+"secondaryColor": "#000000",
+
+"zipcode": "35242",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 1634,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "VH"
+
+},
+
+{
+
+"abbreviation": "HO",
+
+"name": "Homewood",
+
+"mascot": "Patriots",
+
+"primaryColor": "#FF0000",
+
+"secondaryColor": "#FFFFFF",
+
+"zipcode": "35209",
+
+"attributes": {
+
+"prestige": 8,
+
+"facilities": 8,
+
+"stadium": 8,
+
+"collegeLife": 8,
+
+"academics": 8,
+
+"marketing": 8,
+
+"attendance": 1223,
+
+"fanbaseLevel": 8
+
+},
+
+"rivalAbbreviation": "MB"
+
+},
+
+{
+
+"abbreviation": "CH",
+
+"name": "Chalkville",
+
+"mascot": "Cougars",
+
+"primaryColor": "#0E204E",
+
+"secondaryColor": "#989898",
+
+"zipcode": "35126",
+
+"attributes": {
+
+"prestige": 5,
+
+"facilities": 5,
+
+"stadium": 5,
+
+"collegeLife": 5,
+
+"academics": 5,
+
+"marketing": 5,
+
+"attendance": 1270,
+
+"fanbaseLevel": 5
+
+},
+
+"rivalAbbreviation": "TR"
+
+}
+
+]
+
+}
+
+]
+
+}
+
+]
+
+}
